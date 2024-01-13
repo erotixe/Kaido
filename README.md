@@ -32,6 +32,9 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/TEAM_NETFLIX'>ᴛᴇᴧᴍ ɴᴇᴛғʟɪх • ᴏʀɪɢɪɴᴀʟꜱ</a>.</b>
 
 </details>
+
+
+<details>
     <summary><h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs :</b></h3></summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
