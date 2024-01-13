@@ -71,7 +71,9 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 </pre>
 </p>
 
-<h3>「 ᴄʀᴇᴅɪᴛs 」
+</details>
+
+
 </h3>
 
 - <b>[ᴍɪᴋᴇʏ](https://t.me/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/sewxiy) </b>
