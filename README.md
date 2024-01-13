@@ -29,7 +29,8 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 - **Jikan REST API**: Jikan is used to retrieve anime information, including details about episodes, genres, and more.
 - **Kitsu API**: The Kitsu API provides additional data and information about anime titles.
 
-<details>
+<b>ᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ <a href='https://t.me/TEAM_NETFLIX'>ᴛᴇᴧᴍ ɴᴇᴛғʟɪх • ᴏʀɪɢɪɴᴀʟꜱ</a>.</b>
+</details>
     <summary><h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs :</b></h3></summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
