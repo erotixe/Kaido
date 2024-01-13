@@ -18,20 +18,15 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 <b>ᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ <a href='https://t.me/TEAM_NETFLIX'>ᴛᴇᴧᴍ ɴᴇᴛғʟɪх • ᴏʀɪɢɪɴᴀʟꜱ</a>.</b>
 </details>
 
-## Technologies Used
-
+<details>
+  <summary><b>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴜsᴇᴅ :</b></summary>
+  
+## ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴜsᴇᴅ
 - **React**: The website is built using the React JavaScript library for creating dynamic user interfaces.
-
 - **React Router**: React Router is used for handling client-side routing and navigation within the app.
-
-- **React Query**: React Query is used for efficient data fetching and state management.
-
 - **p-queue**: p-queue is utilized to manage concurrent API requests efficiently.
-
 - **Node.js Library**: This website uses a Node.js library for consuming data from various publicly available anime APIs.
-
 - **Jikan REST API**: Jikan is used to retrieve anime information, including details about episodes, genres, and more.
-
 - **Kitsu API**: The Kitsu API provides additional data and information about anime titles.
 
 <details>
