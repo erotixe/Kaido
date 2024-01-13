@@ -43,7 +43,30 @@ If you want to set up Kaido locally on your machine, follow these steps:
    cd kaido
    npm install
    npm run dev
-After that you can access Kaido locally by visiting the URL displayed in the shell window
-## Contributing
-We welcome contributions to improve and enhance Kaido. If you have any bug reports, feature requests, or code contributions, please feel free to open an issue or submit a pull request.
+
+<h3>「 ᴄʀᴇᴅɪᴛs 」
+</h3>
+
+- <b>[ᴍɪᴋᴇʏ](https://t.me/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/sewxiy) </b>
+
+ 
+<b>ᴡᴇ ᴡᴇʟᴄᴏᴍᴇ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/team_netflix) ᴛᴏ ɪᴍᴘʀᴏᴠᴇ ᴀɴᴅ ᴇɴʜᴀɴᴄᴇ Kᴀɪᴅᴏ. Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢ ʀᴇᴘᴏʀᴛs, ғᴇᴀᴛᴜʀᴇ ʀᴇǫᴜᴇsᴛs, ᴏʀ ᴄᴏᴅᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs, ᴘʟᴇᴀsᴇ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴏᴘᴇɴ ᴀɴ ɪssᴜᴇ ᴏʀ sᴜʙᴍɪᴛ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇsᴛ.🖤 </b>
+
+
+<h3>「 ɴᴏᴛᴇ 」
+</h3>
+
+ - <b>ɪᴍᴘᴏʀᴛɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪɴsᴛᴇᴀᴅ ᴏғ ғᴏʀᴋɪɴɢ ɪs sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ 🚫 ᴋɪɴᴅʟʏ ғᴏʀᴋ ᴀɴᴅ ᴇᴅɪᴛ ᴀs ʏᴏᴜʀ ᴡɪsʜ (ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ғᴏʀ ᴅᴇᴠs) 🙃</b>
+ - <b>ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs ᴏʀ ᴇʀʀᴏʀs, ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ.</b>
+
+### ᴄᴏɴᴛᴀᴄᴛ :
+<a href="https://t.me/veldxd"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=teamnetflixe@outlook.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://youtube.com/"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://instagram.com/x.e.n.o.x"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
