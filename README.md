@@ -6,15 +6,17 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 
 
 
-## Features
+<details>
+  <summary><b>ꜰᴇᴀᴛᴜʀᴇs :</b></summary>
+  
+## ꜰᴇᴀᴛᴜʀᴇs
+- [x] **Anime Library**: Browse and search for a wide range of anime series and movies.
+- [x] **Anime Details**: Get detailed information about each anime, including synopsis, genres, release date, and more.
+- [x] **Streaming**: Stream anime episodes and movies directly from the website.
+- [x] **User-friendly**: Kaido is designed with a user-friendly interface to enhance your viewing experience.
 
-- **Anime Library**: Browse and search for a wide range of anime series and movies.
-
-- **Anime Details**: Get detailed information about each anime, including synopsis, genres, release date, and more.
-
-- **Streaming**: Stream anime episodes and movies directly from the website.
-
-- **User-friendly**: Kaido is designed with a user-friendly interface to enhance your viewing experience.
+<b>ᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ <a href='https://t.me/TEAM_NETFLIX'>ᴛᴇᴧᴍ ɴᴇᴛғʟɪх • ᴏʀɪɢɪɴᴀʟꜱ</a>.</b>
+</details>
 
 ## Technologies Used
 
