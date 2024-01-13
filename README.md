@@ -32,10 +32,38 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 
 - **Kitsu API**: The Kitsu API provides additional data and information about anime titles.
 
-## Getting Started
+<details>
+    <summary><h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs :</b></h3></summary>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-If you want to set up Kaido locally on your machine, follow these steps:
-
+<p align="center"><a href="https://github.com/erotixe/Kaido">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
+</h3>
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/erotixe/Kaido&branch=main&name=main">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/erotixe/Kaido">
+     <img height="45px" src="https://railway.app/button.svg">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
+</h3>
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/erotixe/Kaido">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
+</h3>
+<p>
+<pre>
 1. Clone the repository:
 
    ```shell
@@ -43,6 +71,9 @@ If you want to set up Kaido locally on your machine, follow these steps:
    cd kaido
    npm install
    npm run dev
+</pre>
+</p>
+</details>
 
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
