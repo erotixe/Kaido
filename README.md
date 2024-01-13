@@ -64,16 +64,12 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 </h3>
 <p>
 <pre>
-1. Clone the repository:
-
-   ```shell
    git clone https://github.com/Manj0tBenipal/kaido.git
    cd kaido
    npm install
    npm run dev
 </pre>
 </p>
-</details>
 
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
