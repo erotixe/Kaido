@@ -13,7 +13,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://discord.com/invite/RRaf5JkkKu"
+          href="https://discord.com/"
           target="_blank"
           rel="noreferrer"
         >
@@ -25,7 +25,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.reddit.com/r/AniWatchZone/"
+          href="https://www.reddit.com/r/"
           target="_blank"
           rel="noreferrer"
         >
@@ -37,7 +37,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+6pPzElOP7rc4ZGI1"
+          href="https://t.me/WeebZoneX"
           target="_blank"
           rel="noreferrer"
         >
@@ -49,7 +49,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://twitter.com/AniWatchGo"
+          href="https://twitter.com/"
           target="_blank"
           rel="noreferrer"
         >
